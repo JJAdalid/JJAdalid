@@ -14,3 +14,18 @@
     <img src="https://badge.mediaplus.ma/darkblue/jadalid-?1337Badge=off&UM6P=off" alt="jadalid's 42 stats" />
   </a>
 </p>
+
+## 🛠️ Habilidades
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,js,react,tailwind,mysql,firebase,php,c,cpp,html,css,linux,bash,ubuntu,vscode,vim,ai,&perline=12" />
+  </a>
+</p>
+
+## 📚 Mis perfiles
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nachopuerto95&hide_border=true&show_icons=true&theme=react&bg_color=0D1117&icon_color=79ff97" alt="Nacho Puerto's GitHub stats" style="display:inline-block; margin-right:20px; width: 45%;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJAdalid&hide_border=true&bg_color=0D1117&layout=compact&theme=aura" alt="Top Languages" style="display:inline-block; width: 35%;" />
+</p>
